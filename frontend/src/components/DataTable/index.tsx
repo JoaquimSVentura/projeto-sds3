@@ -1,4 +1,5 @@
-const Footer = () => {
+const DataTable = () => {
+  
   return (
     <div className="table-responsive">
       <table className="table table-striped table-sm">
@@ -57,4 +58,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default DataTable;
